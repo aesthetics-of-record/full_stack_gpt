@@ -6,3 +6,6 @@ openai
 jupyter
 python-dotenv
 streamlit
+unstructured
+unstructured[pdf]
+faiss-cpu
